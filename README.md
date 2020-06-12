@@ -1,4 +1,5 @@
 # Niagara Sport Database
+![NSDB Logo](NSDB_logo.png)
 
 [Brock Centre for Sport Capacity](https://brocku.ca/applied-health-sciences/centre-for-sport-capacity/)
 
